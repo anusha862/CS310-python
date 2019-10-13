@@ -1,0 +1,10 @@
+print ('hello world')
+print ("hello world")
+print ("jhon")
+print ("jhon kennedy")
+print ("hi,I am python.")
+print (25)
+print (2*2)
+print (2+5+9)
+print ("20","+","2","=","22")
+
